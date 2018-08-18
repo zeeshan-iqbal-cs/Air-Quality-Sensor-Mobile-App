@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AirQualityPerson</string>
+    <string name="mobile_connection_button_text">Connect with Mobile</string>
+    <string name="data_button_text">See Device Data</string>
+
+    <string name="connection_string_formatter">"%s"</string>
+    <string name="device_hotspot_SSID">BjsRvbmjuz</string>
+    <string name="device_hotspot_password">tbw2fb4js6tbwfq9</string>
+
+    <string name="email_spinner_text">Select Email . . .</string>
+    <string name="network_spinner_text">Select Network . . .</string>
+</resources>
