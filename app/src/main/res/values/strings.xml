@@ -4,9 +4,10 @@
     <string name="data_button_text">See Device Data</string>
 
     <string name="connection_string_formatter">"%s"</string>
-    <string name="device_hotspot_SSID">BjsRvbmjuz</string>
-    <string name="device_hotspot_password">tbw2fb4js6tbwfq9</string>
+    <string name="device_hotspot_SSID">"BjsRvbmjuz"</string>
+    <string name="device_hotspot_password">"tbw2fb4js6tbwfq9"</string>
 
     <string name="email_spinner_text">Select Email . . .</string>
-    <string name="network_spinner_text">Select Network . . .</string>
+    <string name="password_text_view_hint">Wifi Password</string>
+    <string name="ssid_text_view_hint">Wifi SSID</string>
 </resources>
